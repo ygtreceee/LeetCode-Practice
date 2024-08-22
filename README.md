@@ -30,3 +30,9 @@ git commit -m "..."
 
 git push
 ```
+
+Choose your branch and come to Pull Request
+![WechatIMG1659](https://github.com/user-attachments/assets/6064999c-0577-4be7-9a97-323602161dc8)
+
+Finally, submit a new Pull Request
+![WechatIMG1661](https://github.com/user-attachments/assets/595b3c7c-aa9b-4d42-b31a-cc06a1fd79fa)
