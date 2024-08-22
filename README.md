@@ -17,6 +17,11 @@ View all remote repositories associated with the current project
 git remote -v
 ```
 
+Create your own branch
+```
+git checkout -b your-branch-name
+```
+
 If you have something new needs to be uploaded 
 ```
 git add .
