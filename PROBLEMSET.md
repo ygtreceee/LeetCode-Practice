@@ -1,5 +1,3 @@
-# LeetCode Practice Weekly 👻
-
 ### LeetCode Algorithm
 
 (Notes: "🔒" means you need to buy a book from Leetcode)
