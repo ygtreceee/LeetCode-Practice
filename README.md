@@ -36,3 +36,10 @@ Choose your branch and come to Pull Request
 
 Finally, submit a new Pull Request
 ![WechatIMG1661](https://github.com/user-attachments/assets/595b3c7c-aa9b-4d42-b31a-cc06a1fd79fa)
+
+
+
+### Tutorial on using Git
+
+- [git、github 保姆级教程入门，工作和协作必备技术，github提交pr - pull request](https://www.bilibili.com/video/BV1s3411g7PS/?spm_id_from=333.337.search-card.all.click&vd_source=8c61802f3a33d41687c6007370b66728)
+- [Git 基本操作 | 菜鸟教程](https://www.runoob.com/git/git-basic-operations.html)
