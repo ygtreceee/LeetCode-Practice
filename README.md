@@ -3,7 +3,7 @@
 
 ## How to join elegantly 😍
 
-**Clone the repository to local **
+**Clone the repository to local**
 ```
 git clone https://github.com/ygtreceee/LeetCode-Practice.git
 ```
